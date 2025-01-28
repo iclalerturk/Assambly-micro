@@ -1,0 +1,20 @@
+﻿  main.cpp
+C:\Users\iclal\Downloads\hw1-visualstudio\hw1-visualstudio\main.cpp(79,5): error C4235: standart olmayan uzantı kullanıldı: '__asm' anahtar sözcüğü bu mimaride desteklenmiyor
+C:\Users\iclal\Downloads\hw1-visualstudio\hw1-visualstudio\main.cpp(81,9): error C2065: 'MOV': bildirimi yapılmamış tanımlayıcı
+C:\Users\iclal\Downloads\hw1-visualstudio\hw1-visualstudio\main.cpp(81,13): error C2146: sözdizimi hatası: ';' eksik ('EBX' tanımlayıcısından önce)
+C:\Users\iclal\Downloads\hw1-visualstudio\hw1-visualstudio\main.cpp(81,13): error C2065: 'EBX': bildirimi yapılmamış tanımlayıcı
+C:\Users\iclal\Downloads\hw1-visualstudio\hw1-visualstudio\main.cpp(82,9): error C2146: sözdizimi hatası: ';' eksik ('MOV' tanımlayıcısından önce)
+C:\Users\iclal\Downloads\hw1-visualstudio\hw1-visualstudio\main.cpp(82,9): error C2065: 'MOV': bildirimi yapılmamış tanımlayıcı
+C:\Users\iclal\Downloads\hw1-visualstudio\hw1-visualstudio\main.cpp(82,13): error C2146: sözdizimi hatası: ';' eksik ('ESI' tanımlayıcısından önce)
+C:\Users\iclal\Downloads\hw1-visualstudio\hw1-visualstudio\main.cpp(82,13): error C2065: 'ESI': bildirimi yapılmamış tanımlayıcı
+C:\Users\iclal\Downloads\hw1-visualstudio\hw1-visualstudio\main.cpp(83,3): error C2146: sözdizimi hatası: ';' eksik ('MOV' tanımlayıcısından önce)
+C:\Users\iclal\Downloads\hw1-visualstudio\hw1-visualstudio\main.cpp(83,3): error C2065: 'MOV': bildirimi yapılmamış tanımlayıcı
+C:\Users\iclal\Downloads\hw1-visualstudio\hw1-visualstudio\main.cpp(83,7): error C2146: sözdizimi hatası: ';' eksik ('AL' tanımlayıcısından önce)
+C:\Users\iclal\Downloads\hw1-visualstudio\hw1-visualstudio\main.cpp(83,7): error C2065: 'AL': bildirimi yapılmamış tanımlayıcı
+C:\Users\iclal\Downloads\hw1-visualstudio\hw1-visualstudio\main.cpp(84,9): error C2760: söz dizimi hatası: burada 'MOV' beklenmiyordu; '{' bekleniyordu
+C:\Users\iclal\Downloads\hw1-visualstudio\hw1-visualstudio\main.cpp(84,13): error C2065: 'DL': bildirimi yapılmamış tanımlayıcı
+C:\Users\iclal\Downloads\hw1-visualstudio\hw1-visualstudio\main.cpp(85,3): error C2146: sözdizimi hatası: ',' eksik ('SUB' tanımlayıcısından önce)
+C:\Users\iclal\Downloads\hw1-visualstudio\hw1-visualstudio\main.cpp(133,5): error C4235: standart olmayan uzantı kullanıldı: '__asm' anahtar sözcüğü bu mimaride desteklenmiyor
+C:\Users\iclal\Downloads\hw1-visualstudio\hw1-visualstudio\main.cpp(143,5): error C4235: standart olmayan uzantı kullanıldı: '__asm' anahtar sözcüğü bu mimaride desteklenmiyor
+C:\Users\iclal\Downloads\hw1-visualstudio\hw1-visualstudio\main.cpp(154,5): error C4235: standart olmayan uzantı kullanıldı: '__asm' anahtar sözcüğü bu mimaride desteklenmiyor
+C:\Users\iclal\Downloads\hw1-visualstudio\hw1-visualstudio\main.cpp(165,5): error C4235: standart olmayan uzantı kullanıldı: '__asm' anahtar sözcüğü bu mimaride desteklenmiyor

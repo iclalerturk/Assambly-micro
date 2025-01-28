@@ -1,0 +1,12 @@
+﻿  lab4.cpp
+C:\Users\iclal\Downloads\lab4-visualstudio\lab4-visualstudio\lab4.cpp(56,14): warning C4101: 'matrix_value': yerel değişken başvurusu kaldırıldı
+C:\Users\iclal\Downloads\lab4-visualstudio\lab4-visualstudio\lab4.cpp(59,22): warning C4101: 'tmp_di': yerel değişken başvurusu kaldırıldı
+C:\Users\iclal\Downloads\lab4-visualstudio\lab4-visualstudio\lab4.cpp(56,28): warning C4101: 'kernel_value': yerel değişken başvurusu kaldırıldı
+C:\Users\iclal\Downloads\lab4-visualstudio\lab4-visualstudio\lab4.cpp(167,23): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+C:\Users\iclal\Downloads\lab4-visualstudio\lab4-visualstudio\lab4.cpp(168,27): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+C:\Users\iclal\Downloads\lab4-visualstudio\lab4-visualstudio\lab4.cpp(187,23): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+C:\Users\iclal\Downloads\lab4-visualstudio\lab4-visualstudio\lab4.cpp(188,27): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+C:\Users\iclal\Downloads\lab4-visualstudio\lab4-visualstudio\lab4.cpp(208,23): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+C:\Users\iclal\Downloads\lab4-visualstudio\lab4-visualstudio\lab4.cpp(209,27): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+C:\Users\iclal\Downloads\lab4-visualstudio\lab4-visualstudio\lab4.cpp(235,19): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+  lab4final.vcxproj -> C:\Users\iclal\Downloads\lab4-visualstudio\lab4-visualstudio\Debug\lab4final.exe
